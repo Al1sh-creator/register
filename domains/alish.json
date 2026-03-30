@@ -1,0 +1,11 @@
+{
+  "description": "Alish's personal developer portfolio",
+  "repo": "https://github.com/Al1sh-creator/portfolio",
+  "owner": {
+    "username": "Al1sh-creator",
+    "email": "alishdalsania@gmail.com"
+  },
+  "record": {
+    "CNAME": "portfolio-galaxy-five.vercel.app"
+  }
+}
